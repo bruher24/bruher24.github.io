@@ -1,4 +1,5 @@
 # About
+Привет, я Дмитрий - PHP-разработчик.
 
-# Top used langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruher24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# Стек
+Пишу на PHP 7.4+. Использую в работе Laravel, Docker, docker compose, Nginx, Apache, MySQL
