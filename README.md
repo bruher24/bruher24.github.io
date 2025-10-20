@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Дмитрий, PHP-разработчик <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="left">:white_check_mark:Ответственный и исполнительный сотрудник, нацеленный на результат</h3>
+<h3 align="left">:white_check_mark:Ответственный и исполнительный разработчик, нацеленный на результат</h3>
 <h3 align="left">:white_check_mark:Стремлюсь писать чистый, эффективный и поддерживаемый код</h3>
 <h3 align="left">:white_check_mark:Активно применяю принципы и паттерны проектирования ООП, SOLID, DRY, KISS, YAGNI</h3>
 <h3 align="left">:white_check_mark:Имею опыт полного цикла разработки</h3>
